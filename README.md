@@ -4,7 +4,7 @@ This is a docker version of MULTILAYER (tool for spatial transcriptomics analysi
 
 Versions of libraries :
 
-    numpy : 1.19.3
+    	numpy : 1.19.3
 		matplotlib : 3.3.2
 		pandas : 1.1.4
 		scipy : 1.5.4
