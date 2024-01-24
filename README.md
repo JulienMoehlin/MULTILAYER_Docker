@@ -1,7 +1,7 @@
 # MULTILAYER Docker version
 
 <div align="center">
-[![docker](docker.gif)]
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 </div>
 
 This is a docker version of MULTILAYER (tool for spatial transcriptomics analysis).
