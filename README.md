@@ -1,8 +1,8 @@
 # MULTILAYER Docker version
 
-<div align="center">
+
 ![](https://github.com/JulienMoehlin/MULTILAYER_Docker/blob/main/docker.gif)
-</div>
+
 
 This is a docker version of MULTILAYER (tool for spatial transcriptomics analysis).
 You want more informations about MULTILAYER ? Please visit the [GitHub](https://github.com/SysFate/MULTILAYER).
