@@ -17,7 +17,9 @@ Versions of libraries :
 
 ## How to launch Multilayer with Docker ? (Step by step tutorial)
 
-Docker should be previously installed
+Docker should be previously installed.
+
+Start Docker service
 
 ```bash
 systemctl start docker
@@ -35,13 +37,13 @@ Pull the docker image from [DockerHub](https://hub.docker.com/r/hyperionju/spati
 docker pull hyperionju/spatial_multilayer
 ```
 
-You should have now the image, you can check with :
+You should have now an image called 'hyperionju/spatial_multilayer', you can check with :
 
 ```bash
 docker images
 ```
 
-Then you can run and enjoy
+Then you can run and enjoy.
 
 ```bash
 docker run -it --rm -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=$DISPLAY hyperionju/spatial_multilayer
