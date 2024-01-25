@@ -56,6 +56,12 @@ You should have now an image called 'hyperionju/spatial_multilayer', you can che
 docker images
 ```
 
+Need to allow the communication between Docker & X server (Graphical application)
+
+```bash
+xhost +local:docker
+```
+
 Then you can run and enjoy.
 
 ```bash
