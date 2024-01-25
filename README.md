@@ -4,7 +4,11 @@
     <a href="https://hub.docker.com/r/hyperionju/spatial_multilayer"><img src="https://badgen.net/badge/docker/hyperionju%2Fspatial_multilayer?label&icon=docker" /></a>
     <a href=""><img src="https://badgen.net/docker/pulls/hyperionju/spatial_multilayer?icon=docker&label=pulls" /></a>
     <a href=""><img src="https://badgen.net/github/stars/JulienMoehlin/MULTILAYER_Docker?icon=github&label=stars" /></a>
+    <a href="https://zenodo.org/badge/DOI/10.5281/zenodo.6365536.svg"><img src="https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00151-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471221001514%3Fshowall%3Dtrue" /></a>
 </p>
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6365536.svg)](https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00151-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471221001514%3Fshowall%3Dtrue) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6365580.svg)](https://star-protocols.cell.com/protocols/998)
 
 <p align="center">
      <a href=""><img src="https://github.com/JulienMoehlin/MULTILAYER_Docker/blob/main/docker.gif" /></a>
