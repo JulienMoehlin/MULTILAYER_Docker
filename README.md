@@ -11,7 +11,8 @@
 </p>
 
 This is a docker version of MULTILAYER (tool for spatial transcriptomics analysis).
-You want more informations about MULTILAYER ? Please visit [MULTILAYER's GitHub](https://github.com/SysFate/MULTILAYER).
+
+Do you want more informations about MULTILAYER ? Please visit [MULTILAYER's GitHub](https://github.com/SysFate/MULTILAYER).
 
 Versions of libraries :
 
