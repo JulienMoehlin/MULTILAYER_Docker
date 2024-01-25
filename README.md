@@ -1,5 +1,10 @@
 # MULTILAYER Docker version
 
+<p align="center">
+    <a href="https://hub.docker.com/r/hyperionju/spatial_multilayer"><img src="https://badgen.net/badge/docker/hyperionju%2Fspatial_multilayer?label&icon=docker" /></a>
+    <a href=""><img src="https://badgen.net/docker/pulls/hyperionju/spatial_multilayer?icon=docker&label=pulls" /></a>
+    <a href=""><img src="https://badgen.net/github/stars/JulienMoehlin/MULTILAYER_Docker?icon=github&label=stars" /></a>
+</p>
 
 ![](https://github.com/JulienMoehlin/MULTILAYER_Docker/blob/main/docker.gif)
 
