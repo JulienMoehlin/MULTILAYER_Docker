@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    ![](https://github.com/JulienMoehlin/MULTILAYER_Docker/blob/main/docker.gif)
+     <a href=""><img src="https://github.com/JulienMoehlin/MULTILAYER_Docker/blob/main/docker.gif" /></a>
 </p>
 
 This is a docker version of MULTILAYER (tool for spatial transcriptomics analysis).
